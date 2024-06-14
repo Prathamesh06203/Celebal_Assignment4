@@ -35,8 +35,8 @@ The dataset used in this project is `ramen-ratings.csv`, which contains informat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ramen-ratings-analysis.git
-   cd ramen-ratings-analysis
+   git clone https://github.com/your-username/Celebal_Assignment4.git
+   cd Assignment4
    ```
 
 2. Create and activate a virtual environment:
@@ -60,7 +60,7 @@ The dataset used in this project is `ramen-ratings.csv`, which contains informat
 
 To run the analysis scripts, use:
 ```bash
-python analysis_script.py
+python Assignment4.ipynb
 ```
 
 ## Features
@@ -85,30 +85,19 @@ python analysis_script.py
 ### Example Visualizations
 
 #### Proportion of Top Ten Status by Missing Style Column
-![Proportion of Top Ten Status by Missing Style Column](path/to/proportion_plot.png)
+![Proportion of Top Ten Status by Missing Style Column](images/1.png)
 
 #### Stars Distribution by Country
-![Stars Distribution by Country](path/to/stars_distribution_plot.png)
+![Stars Distribution by Country](images/2.png)
 
 #### Boxplot of Stars
-![Boxplot of Stars](path/to/boxplot_stars.png)
+![Boxplot of Stars](images/3.png)
 
 #### Correlation Matrix
-![Correlation Matrix](path/to/correlation_matrix.png)
+![Correlation Matrix](images/4.png)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### How to Use this README
-
-1. **Replace Placeholder Text**: Ensure you replace `your-username` with your actual GitHub username and provide the correct path for the dataset and images.
-2. **Add Requirements**: Create a `requirements.txt` file listing the necessary Python packages. This can be done using:
-   ```bash
-   pip freeze > requirements.txt
-   ```
-3. **Update License**: If you choose a different license, make sure to update the LICENSE section accordingly.
-
-Place this README.md file in the root directory of your GitHub repository. This will help users understand the purpose of your project and how to use it.
 
